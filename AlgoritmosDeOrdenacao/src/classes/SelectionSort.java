@@ -25,6 +25,7 @@ public class SelectionSort {
         System.out.println("Tempo de execução: " + duration + " nanossegundos");        
         System.out.println("Número de trocas: "+ troca);
         System.out.println("Número de comparações: "+ comparacoes);
+        
 
         return array;
     }
